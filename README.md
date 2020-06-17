@@ -12,7 +12,7 @@
 ## :running: Run the project:
 ```shell
   # Clone this repository
-  - git clone https://github.com/MailsonSilva/GoStack-Desafio-Conceitos-NodeJS.git
+  - git clone git@github.com:acpn/githubAPI.git
   
   # Enter project directory
   - cd [project folder]
